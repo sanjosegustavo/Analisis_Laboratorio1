@@ -4,7 +4,7 @@ Trabajo Práctico de Laboratorio Nro 1, de la especialización Análisis de Dato
 ## Link notebook colab
 https://colab.research.google.com/github/sanjosegustavo/Analisis_Laboratorio1/blob/main/Analisis_laboratorio_1.ipynb
 
-
+[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sanjosegustavo/Analisis_Laboratorio1/blob/main/Analisis_laboratorio_1.ipynb) 
 
 ###
 * *Origen*: datos obtenidos desde el sitio Datos Abiertos de Buenos Aires. https://buenosaires.gob.ar/innovacionytransformaciondigital/datos-abiertos-de-buenos-aires

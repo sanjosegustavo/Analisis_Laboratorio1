@@ -1,6 +1,9 @@
 # Analisis_Laboratorio1
 Trabajo Práctico de Laboratorio Nro 1, de la especialización Análisis de Datos del Informatorio.
 
+## Link notebook colab
+https://colab.research.google.com/gist/sanjosegustavo/2da5e2b38704ed95f006bfbcf7eadfe6/analisis_laboratorio_1.ipynb#scrollTo=rWibNEsJL-zO
+
 
 ###
 * *Origen*: datos obtenidos desde el sitio Datos Abiertos de Buenos Aires. https://buenosaires.gob.ar/innovacionytransformaciondigital/datos-abiertos-de-buenos-aires
